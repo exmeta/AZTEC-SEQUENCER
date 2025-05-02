@@ -139,9 +139,3 @@ aztec add-l1-validator \
 Feel free to open an [issue](https://github.com/zunxbt/aztec-sequencer-node/issues) or submit a pull request to help improve this guide.
 
 ---
-
-Let me know if you want me to:
-
-* Add a clickable table of contents
-* Include status badges
-* Create a minimal project logo for the README
